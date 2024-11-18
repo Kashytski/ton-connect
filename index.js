@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/ton-pages.loader.js";
+  var loaderUrl = buildUrl + "/ton-connect.loader.js";
   var config = {
-    dataUrl: buildUrl + "/ton-pages.data",
-    frameworkUrl: buildUrl + "/ton-pages.framework.js",
-    codeUrl: buildUrl + "/ton-pages.wasm",
+    dataUrl: buildUrl + "/ton-connect.data",
+    frameworkUrl: buildUrl + "/ton-connect.framework.js",
+    codeUrl: buildUrl + "/ton-connect.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "TonSmartGame",

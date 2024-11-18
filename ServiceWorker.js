@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TonSmartGame-1.0";
 const contentToCache = [
-    "Build/ton-pages.loader.js",
-    "Build/ton-pages.framework.js",
-    "Build/ton-pages.data",
-    "Build/ton-pages.wasm",
+    "Build/ton-connect.loader.js",
+    "Build/ton-connect.framework.js",
+    "Build/ton-connect.data",
+    "Build/ton-connect.wasm",
     "TemplateData/style.css"
 
 ];
